@@ -1,0 +1,6 @@
+id,full_name,email,role,status,location,created_at
+2,"Sunita Karki","sunita@biznepal.com","EMPLOYER","APPROVED","Dharan","2026-05-11 20:44:57.0"
+3,"Ramesh Rai","ramesh@rojgar.com","SEEKER","PENDING","Biratnagar","2026-05-11 20:44:57.0"
+4,"Anita Limbu","anita@hirehub.com","EMPLOYER","PENDING","Itahari","2026-05-11 20:44:57.0"
+5,"Bikash Shrestha","bikash@jobmail.com","SEEKER","APPROVED","Damak","2026-05-11 20:44:57.0"
+1,"Admin User","admin@rojgarsetu.com","ADMIN","APPROVED","Itahari","2026-05-11 19:49:54.0"
